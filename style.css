@@ -72,6 +72,13 @@ body {
 
 .tela--top{
     flex: 1;
+    display: flex;
+}
+.tela--top--left{
+    flex: 1;
+}
+.tela--top--right{
+    width: 90px;
 }
 .tela--down{
     height: 50px;
