@@ -27,22 +27,22 @@ let etapas = [
         candidatos: [
             {
                 numero: '99',
-                nome: 'Ciclano',
+                nome: 'DarthVader',
                 partido: 'ABC',
-                vice: 'Cic',
+                vice: 'Clone_Droid',
                 fotos: [
-                    {url: 'xx.png', legenda: 'Prefeito'},
-                    {url: 'xxx.png', legenda: 'Vice-Prefeito', small: true}
+                    {url: '15778_darth vader_helmet_star wars_icon.png', legenda: 'Prefeito'},
+                    {url: '15483_clone_droid_helmet_star wars_storm trooper_icon.png', legenda: 'Vice-Prefeito', small: true}
                 ]
             },
             {
                 numero: '84',
-                nome: 'Zulano',
-                partido: 'Querty',
-                vice: 'Zul',
+                nome: 'R2D2',
+                partido: 'DROID',
+                vice: 'MO',
                 fotos: [
-                    {url: 'xxx.png', legenda: 'Prefeito'},
-                    {url: 'xxx.png', legenda: 'Vice-Prefeito', small: true}
+                    {url: '15783_r2d2_star wars_droid_robot_icon.png', legenda: 'Prefeito'},
+                    {url: '67058_m_o_icon.png', legenda: 'Vice-Prefeito', small: true}
                 ]
             },
         ]
