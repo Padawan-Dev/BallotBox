@@ -12,6 +12,7 @@ let votoBranco = false;
 let votos = [];
 
 function comecarEtapa(){
+
     let etapa = etapas[etapaAtual];
 
     let numeroHtml = '';
